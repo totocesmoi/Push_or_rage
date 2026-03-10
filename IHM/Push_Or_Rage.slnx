@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Model/Model.csproj" />
+  <Project Path="Push_Or_Rage/Push_Or_Rage.csproj" />
+  <Project Path="Shared/Shared.csproj" />
+  <Project Path="VMService/VMService.csproj" />
+</Solution>

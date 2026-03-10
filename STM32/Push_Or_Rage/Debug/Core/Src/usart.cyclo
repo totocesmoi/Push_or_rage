@@ -1,0 +1,7 @@
+../Drivers/CMSIS/Include/core_cm0plus.h:741:22:__NVIC_EnableIRQ	2
+../Drivers/CMSIS/Include/core_cm0plus.h:848:22:__NVIC_SetPriority	2
+../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_ll_bus.h:438:22:LL_APB1_GRP1_EnableClock	1
+../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_ll_bus.h:985:22:LL_IOP_GRP1_EnableClock	1
+../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_ll_usart.h:541:22:LL_USART_Enable	1
+../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_ll_usart.h:2293:22:LL_USART_ConfigAsyncMode	1
+../Core/Src/usart.c:29:6:MX_USART2_UART_Init	1

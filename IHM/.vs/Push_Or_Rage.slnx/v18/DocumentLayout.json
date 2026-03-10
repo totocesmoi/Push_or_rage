@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tmuza\\source\\repos\\Push_Or_Rage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A644DEBE-3E6A-8B7A-149A-101C78BD2E48}|Push_Or_Rage\\Push_Or_Rage.csproj|c:\\users\\tmuza\\source\\repos\\push_or_rage\\push_or_rage\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A644DEBE-3E6A-8B7A-149A-101C78BD2E48}|Push_Or_Rage\\Push_Or_Rage.csproj|solutionrelative:push_or_rage\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E50-B86A-48A6-4252-6FDC98C636E8}|Shared\\Shared.csproj|c:\\users\\tmuza\\source\\repos\\push_or_rage\\shared\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22F72E50-B86A-48A6-4252-6FDC98C636E8}|Shared\\Shared.csproj|solutionrelative:shared\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9317F7DC-7B4D-E911-FB32-0BCBDD20C5FE}|VMService\\VMService.csproj|c:\\users\\tmuza\\source\\repos\\push_or_rage\\vmservice\\mainvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9317F7DC-7B4D-E911-FB32-0BCBDD20C5FE}|VMService\\VMService.csproj|solutionrelative:vmservice\\mainvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4923625-668A-95CB-F92E-EAD08FFFA065}|Model\\Model.csproj|c:\\users\\tmuza\\source\\repos\\push_or_rage\\model\\gamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4923625-668A-95CB-F92E-EAD08FFFA065}|Model\\Model.csproj|solutionrelative:model\\gamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E50-B86A-48A6-4252-6FDC98C636E8}|Shared\\Shared.csproj|c:\\users\\tmuza\\source\\repos\\push_or_rage\\shared\\serialcommunicationserie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22F72E50-B86A-48A6-4252-6FDC98C636E8}|Shared\\Shared.csproj|solutionrelative:shared\\serialcommunicationserie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E50-B86A-48A6-4252-6FDC98C636E8}|Shared\\Shared.csproj|c:\\users\\tmuza\\source\\repos\\push_or_rage\\shared\\icommunicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22F72E50-B86A-48A6-4252-6FDC98C636E8}|Shared\\Shared.csproj|solutionrelative:shared\\icommunicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A644DEBE-3E6A-8B7A-149A-101C78BD2E48}|Push_Or_Rage\\Push_Or_Rage.csproj|c:\\users\\tmuza\\source\\repos\\push_or_rage\\push_or_rage\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A644DEBE-3E6A-8B7A-149A-101C78BD2E48}|Push_Or_Rage\\Push_Or_Rage.csproj|solutionrelative:push_or_rage\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tmuza\\AppData\\Local\\Temp\\CopilotBaseline\\408ffc52\\~MainVM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A644DEBE-3E6A-8B7A-149A-101C78BD2E48}|Push_Or_Rage\\Push_Or_Rage.csproj|c:\\users\\tmuza\\source\\repos\\push_or_rage\\push_or_rage\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A644DEBE-3E6A-8B7A-149A-101C78BD2E48}|Push_Or_Rage\\Push_Or_Rage.csproj|solutionrelative:push_or_rage\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\tmuza\\source\\repos\\Push_Or_Rage\\Shared\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Shared\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\tmuza\\source\\repos\\Push_Or_Rage\\Shared\\RelayCommand.cs",
+              "RelativeToolTip": "Shared\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T08:00:36.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SerialCommunicationSerie.cs",
+              "DocumentMoniker": "C:\\Users\\tmuza\\source\\repos\\Push_Or_Rage\\Shared\\SerialCommunicationSerie.cs",
+              "RelativeDocumentMoniker": "Shared\\SerialCommunicationSerie.cs",
+              "ToolTip": "C:\\Users\\tmuza\\source\\repos\\Push_Or_Rage\\Shared\\SerialCommunicationSerie.cs",
+              "RelativeToolTip": "Shared\\SerialCommunicationSerie.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T09:02:57.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\tmuza\\source\\repos\\Push_Or_Rage\\Push_Or_Rage\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Push_Or_Rage\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\tmuza\\source\\repos\\Push_Or_Rage\\Push_Or_Rage\\MainWindow.xaml",
+              "RelativeToolTip": "Push_Or_Rage\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-09T08:28:38.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainVM.cs",
+              "DocumentMoniker": "C:\\Users\\tmuza\\source\\repos\\Push_Or_Rage\\VMService\\MainVM.cs",
+              "RelativeDocumentMoniker": "VMService\\MainVM.cs",
+              "ToolTip": "C:\\Users\\tmuza\\source\\repos\\Push_Or_Rage\\VMService\\MainVM.cs",
+              "RelativeToolTip": "VMService\\MainVM.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAAwMEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T08:43:27.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICommunicationService.cs",
+              "DocumentMoniker": "C:\\Users\\tmuza\\source\\repos\\Push_Or_Rage\\Shared\\ICommunicationService.cs",
+              "RelativeDocumentMoniker": "Shared\\ICommunicationService.cs",
+              "ToolTip": "C:\\Users\\tmuza\\source\\repos\\Push_Or_Rage\\Shared\\ICommunicationService.cs",
+              "RelativeToolTip": "Shared\\ICommunicationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T08:43:48.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tmuza\\source\\repos\\Push_Or_Rage\\Push_Or_Rage\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Push_Or_Rage\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\tmuza\\source\\repos\\Push_Or_Rage\\Push_Or_Rage\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Push_Or_Rage\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T08:28:35.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameModel.cs",
+              "DocumentMoniker": "C:\\Users\\tmuza\\source\\repos\\Push_Or_Rage\\Model\\GameModel.cs",
+              "RelativeDocumentMoniker": "Model\\GameModel.cs",
+              "ToolTip": "C:\\Users\\tmuza\\source\\repos\\Push_Or_Rage\\Model\\GameModel.cs",
+              "RelativeToolTip": "Model\\GameModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T08:30:19.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "~MainVM.cs",
+              "DocumentMoniker": "C:\\Users\\tmuza\\AppData\\Local\\Temp\\CopilotBaseline\\408ffc52\\~MainVM.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\CopilotBaseline\\408ffc52\\~MainVM.cs",
+              "ToolTip": "C:\\Users\\tmuza\\AppData\\Local\\Temp\\CopilotBaseline\\408ffc52\\~MainVM.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\CopilotBaseline\\408ffc52\\~MainVM.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAFEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T15:02:42.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\tmuza\\source\\repos\\Push_Or_Rage\\Push_Or_Rage\\App.xaml",
+              "RelativeDocumentMoniker": "Push_Or_Rage\\App.xaml",
+              "ToolTip": "C:\\Users\\tmuza\\source\\repos\\Push_Or_Rage\\Push_Or_Rage\\App.xaml",
+              "RelativeToolTip": "Push_Or_Rage\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-09T08:28:47.602Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

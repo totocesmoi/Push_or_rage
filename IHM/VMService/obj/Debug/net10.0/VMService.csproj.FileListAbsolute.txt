@@ -1,0 +1,17 @@
+C:\Users\tmuza\source\repos\Push_Or_Rage\VMService\obj\Debug\net10.0\VMService.csproj.AssemblyReference.cache
+C:\Users\tmuza\source\repos\Push_Or_Rage\VMService\obj\Debug\net10.0\VMService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmuza\source\repos\Push_Or_Rage\VMService\obj\Debug\net10.0\VMService.AssemblyInfoInputs.cache
+C:\Users\tmuza\source\repos\Push_Or_Rage\VMService\obj\Debug\net10.0\VMService.AssemblyInfo.cs
+C:\Users\tmuza\source\repos\Push_Or_Rage\VMService\obj\Debug\net10.0\VMService.csproj.CoreCompileInputs.cache
+C:\Users\tmuza\source\repos\Push_Or_Rage\VMService\bin\Debug\net10.0\VMService.deps.json
+C:\Users\tmuza\source\repos\Push_Or_Rage\VMService\bin\Debug\net10.0\VMService.dll
+C:\Users\tmuza\source\repos\Push_Or_Rage\VMService\bin\Debug\net10.0\VMService.pdb
+C:\Users\tmuza\source\repos\Push_Or_Rage\VMService\bin\Debug\net10.0\Model.dll
+C:\Users\tmuza\source\repos\Push_Or_Rage\VMService\bin\Debug\net10.0\Shared.dll
+C:\Users\tmuza\source\repos\Push_Or_Rage\VMService\bin\Debug\net10.0\Model.pdb
+C:\Users\tmuza\source\repos\Push_Or_Rage\VMService\bin\Debug\net10.0\Shared.pdb
+C:\Users\tmuza\source\repos\Push_Or_Rage\VMService\obj\Debug\net10.0\VMService.csproj.Up2Date
+C:\Users\tmuza\source\repos\Push_Or_Rage\VMService\obj\Debug\net10.0\VMService.dll
+C:\Users\tmuza\source\repos\Push_Or_Rage\VMService\obj\Debug\net10.0\refint\VMService.dll
+C:\Users\tmuza\source\repos\Push_Or_Rage\VMService\obj\Debug\net10.0\VMService.pdb
+C:\Users\tmuza\source\repos\Push_Or_Rage\VMService\obj\Debug\net10.0\ref\VMService.dll

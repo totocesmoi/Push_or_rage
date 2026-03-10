@@ -1,0 +1,67 @@
+﻿<Window x:Class="Push_Or_Rage.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Push_Or_Rage"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="700" Width="800">
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Connexion Série -->
+        <GroupBox Header="Port Série" Grid.Row="0" Margin="0,0,0,15" Padding="10">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Port Com :" Margin="0,0,5,0" VerticalAlignment="Center"/>
+                <ComboBox ItemsSource="{Binding AvailablePorts}" SelectedItem="{Binding SelectedPort}" Width="150" Margin="0,0,10,0"/>
+                <Button Content="Connecter" Command="{Binding ConnectCommand}" Padding="10,2"/>
+            </StackPanel>
+        </GroupBox>
+
+        <!-- Zone de Configuration -->
+        <GroupBox Header="Configuration du Jeu" Grid.Row="1" Margin="0,0,0,15" Padding="10">
+            <StackPanel Orientation="Vertical">
+                <TextBlock Text="Mode de jeu :" FontWeight="Bold" Margin="0,0,0,5"/>
+                <ComboBox ItemsSource="{Binding GameModes}" SelectedItem="{Binding SelectedGameMode}" Margin="0,0,0,10"/>
+
+                <TextBlock Text="Temps de jeu (secondes) :" FontWeight="Bold" Margin="0,0,0,5"/>
+                <TextBox Text="{Binding GameDuration}" Margin="0,0,0,10"/>
+
+                <StackPanel Orientation="Horizontal">
+                    <Button Content="Jouer" Command="{Binding StartGameCommand}" IsEnabled="{Binding CanPlay}" Width="100" Padding="10,5" FontWeight="Bold" Background="LightGreen" Margin="0,0,10,0"/>
+                </StackPanel>
+            </StackPanel>
+        </GroupBox>
+
+        <!-- Zone de retour du jeu en temps réel -->
+        <GroupBox Header="Retours de la STM32" Grid.Row="2" Padding="10">
+            <StackPanel Orientation="Vertical">
+                <StackPanel Orientation="Horizontal" Margin="0,0,0,5">
+                    <TextBlock Text="Statut : " FontWeight="Bold" />
+                    <TextBlock Text="{Binding StatusMessage}" />
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="0,0,0,5">
+                    <TextBlock Text="Temps Restant : " FontWeight="Bold" />
+                    <TextBlock Text="{Binding TimeRemaining}" Foreground="Red" />
+                    <TextBlock Text=" s" />
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                    <TextBlock Text="Score : " FontWeight="Bold" />
+                    <TextBlock Text="{Binding Score}" FontSize="16" Foreground="Blue" />
+                </StackPanel>
+            </StackPanel>
+        </GroupBox>
+
+        <!-- Historique de jeu -->
+        <GroupBox Header="Historique des Communications" Grid.Row="3" Margin="0,15,0,0" Padding="10">
+            <ListBox ItemsSource="{Binding CommunicationHistory}" MinHeight="100"/>
+        </GroupBox>
+    </Grid>
+</Window>
